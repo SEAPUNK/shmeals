@@ -1,3 +1,18 @@
+# SHMeals - Structure House Meal Planner
+
+unofficial meal planner, using meal data from their nutrislice menu
+
+project feature goals:
+
+- [ ] set your food choice range, calorie range, and personal calorie target
+- [ ] see ordering windows at a glance
+- [ ] select items on a menu with instant feedback on total calories and food choices
+- [ ] assist with food choices by knowing which menu items would go over food choice/caloric targets before adding them
+- [ ] see selected food list, ordered and grouped in a way that mimics the nutrislice menu for easy ordering on nutrislice
+- [ ] (stretch) order in the planner, instead of directly on nutrislice
+
+---
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
