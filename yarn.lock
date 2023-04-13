@@ -1056,6 +1056,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"date-picker-svelte@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "date-picker-svelte@npm:2.3.0"
+  peerDependencies:
+    svelte: ^3.24.0
+  checksum: b2e9d464c9cb3bd63529c730a4063c9c0d79f6b6f80fda80a9a63a6816e92828771ee510a7be24b8c05b997c2847728c3e85044433174ceaad835740b760530e
+  languageName: node
+  linkType: hard
+
 "debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
@@ -2932,6 +2941,7 @@ __metadata:
     "@typescript-eslint/parser": ^5.45.0
     autoprefixer: ^10.4.14
     axios: ^1.3.5
+    date-picker-svelte: ^2.3.0
     eslint: ^8.28.0
     eslint-config-prettier: ^8.5.0
     eslint-plugin-svelte3: ^4.0.0
@@ -2943,6 +2953,7 @@ __metadata:
     svelte-check: ^3.0.1
     tailwindcss: ^3.3.1
     tslib: ^2.4.1
+    typed-assert: ^1.0.9
     typescript: ^5.0.0
     vite: ^4.2.0
     vitest: ^0.25.3
@@ -3392,6 +3403,13 @@ __metadata:
   version: 0.20.2
   resolution: "type-fest@npm:0.20.2"
   checksum: 4fb3272df21ad1c552486f8a2f8e115c09a521ad7a8db3d56d53718d0c907b62c6e9141ba5f584af3f6830d0872c521357e512381f24f7c44acae583ad517d73
+  languageName: node
+  linkType: hard
+
+"typed-assert@npm:^1.0.9":
+  version: 1.0.9
+  resolution: "typed-assert@npm:1.0.9"
+  checksum: 79351bd3ea184a552bf55a77bd3012f128741c841ed718d054c5abbbc8925362aa033ae2cdcc79e1f445a15112447c8a95a08ddf7ff8aeb04f805e92187f77c1
   languageName: node
   linkType: hard
 
