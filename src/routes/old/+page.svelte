@@ -1,8 +1,8 @@
 <script lang="ts">
 	/** @type {import('./$types').PageData} */
-	import MealDatePicker from '../components/MealDatePicker.svelte';
+	import MealDatePicker from '$lib/components/MealDatePicker.svelte';
 	import { DateTime } from 'luxon';
-	import { selectedMealDate } from '../stores';
+	import { selectedMealDate } from '$lib/stores';
 	import { derived, readable } from 'svelte/store';
 	import * as t from 'typed-assert';
 

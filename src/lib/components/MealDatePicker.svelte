@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { DatePicker } from 'date-picker-svelte';
-	import { selectedMealDate } from '../stores';
+	import { selectedMealDate } from '$lib/stores';
 
 	export let min: Date;
 	export let max: Date;
